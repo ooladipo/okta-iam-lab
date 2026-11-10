@@ -1,0 +1,11 @@
+login,firstName,lastName,email,department,title
+amara.lab@example.com,Amara,Okafor,amara.lab@example.com,Engineering,Backend Engineer
+jonas.lab@example.com,Jonas,Becker,jonas.lab@example.com,Engineering,Platform Engineer
+lena.lab@example.com,Lena,Schmidt,lena.lab@example.com,Engineering,Engineering Manager
+tunde.lab@example.com,Tunde,Adeyemi,tunde.lab@example.com,Security,Security Engineer
+sofia.lab@example.com,Sofia,Rossi,sofia.lab@example.com,Security,GRC Analyst
+max.lab@example.com,Max,Weber,max.lab@example.com,Finance,Finance Analyst
+chioma.lab@example.com,Chioma,Eze,chioma.lab@example.com,Finance,Controller
+paul.lab@example.com,Paul,Richter,paul.lab@example.com,Sales,Account Manager
+nina.lab@example.com,Nina,Hoffmann,nina.lab@example.com,IT,IT Administrator
+omar.lab@example.com,Omar,Haddad,omar.lab@example.com,IT,Helpdesk Lead
